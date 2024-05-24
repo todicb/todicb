@@ -1,6 +1,5 @@
 <h3 align="center">Front End React Developer from Belgrade, Serbia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=todicb&label=Profile%20views&color=0e75b6&style=flat" alt="todicb" /> </p>
 <p align="left">
 </p>
 
