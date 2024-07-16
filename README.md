@@ -1,4 +1,4 @@
-**Front-End React Developer from Belgrade, Serbia.**
+**Front-end React Developer from Belgrade, Serbia.**
 
 <p><b>SKILLS</b></p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react" />
